@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Computer Science student at Kasetsart University (CS38)</p>
+<p align="left">Hi, I'm a Computer Science student, and here is my workspace.</p>
 
 ###
 
